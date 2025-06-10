@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wanyuan (Vita) Jin（金宛媛）
+title: Wanyuan (Vita) Jin
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: 金宛媛
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
