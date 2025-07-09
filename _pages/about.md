@@ -31,13 +31,13 @@ For more details about my background and work, please refer to my [CV](CV/cv_vit
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-# 📖 Educations
+# 📖 Education
 - *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University
   - GPA: 3.9/4.0
   - Coursework: Business Statistics (100/100, 1st); Marketing (90/100, 1st); Advanced Mathematics (98/100)
 
 # 💻 Work Experience
-## 🏪 *2021.08 - 2023.03*, Tencent Appstore (Yingyongbao) – Product Planning Manager
+## 🎮 *2021.08 - 2023.03*, Tencent Appstore (Yingyongbao) – Product Planning Manager
 Led the full lifecycle development of a digital goods marketplace supporting over 730 games, engaging 700K+
 paying users and generating monthly GMV (Gross Merchandise Value) of ¥60M+. Focused on end-to-end system
 design, data-driven monetization strategies, and user lifecycle management.
@@ -55,11 +55,78 @@ pricing, bundling, and promotion mechanisms.
 improve feature performance. Achieved a 17% increase in user conversion and 9% improvement in retention
 through data-informed interventions.
 
+## 📱 *2020.07 - 2021.07*, Tencent Live – Product Operations Manager 
+Drove user acquisition and content creator activation for Tencent’s livestreaming platform through
+community-based strategies and continuous user feedback loops.
+- User Research & System Feedback Integration: Conducted over 50 qualitative interviews with streamers to
+identify product pain points. Collaborated with engineering to reduce CPU load by 50%, improving system
+stability for long-tail streamers.
+- UGC Activation via Growth Frameworks: Applied the AARRR growth model to guide viewer-to-streamer
+conversion. Designed scalable community-building campaigns and low-barrier event mechanisms, successfully
+activating 1,000+ new streamers and generating 8,000+ high-engagement live sessions.
+
+# ♥️ Research Interests
+- Research Areas: Human Computer/AI Interaction, Mobile Commerce, Platform Ecosystem
+- Methodologies: Empirical Econometrics Modelling, Applied Machine Learning, Field/Lab Experiments
+
+# 📋 Research Experience
+## 🏫 *2023.04 – Present*, Skill Development & Independent Research
+Exploring Human–Computer and Human–AI Interaction through quantitative (lab/field experiments, SEM,
+regression), qualitative (interviews, content analysis), and computational methods (machine learning, NLP), with
+applications in mobile commerce and platform ecosystem.
+- need to write
+- need to write
+
+Engaged in structured self-training to strengthen empirical and computational research skills:
+- Advanced courses: Completed Generative AI, Machine Learning, and Deep Learning specializations by Andrew
+Ng.
+- Transformer-based AI Practice: Applied Hugging Face Transformers to tasks in NLP, computer vision, and
+speech processing; gained hands-on experience in model selection, application, and deployment.
+- Kaggle Projects: Tackled real-world problems such as demand forecasting and image classification using ML/DL
+techniques (e.g., XGBoost, CNNs); developed complete pipelines from data preprocessing to model evaluation.
+- Research Replication: Reproduced classical empirical studies using econometric methods (e.g., PSM, DID).
+
+## 🌎 *2018.08 – 2018.09*, United Nations World Tourism Organization - Research Assistant
+Participated in a UNWTO-led sustainable tourism field study in Kaifeng, China, aimed at evaluating the city’s
+cultural image and informing local policy
+- Quantitative Research: Designed and conducted a large-scale tourist survey (N=1300); built a moderated
+mediation model (Destination Image → Perceived Authenticity → Place Attachment, moderated by Tourist
+Involvement) using PROCESS and SEM
+- Qualitative Research: Performed thematic and sentiment analysis on web-scraped content and interview
+transcripts (50 interviews) to identify key perceptions and explore the cognitive-affective mechanism
+- Outcome: Contributed to a UNWTO-issued report submitted to the Kaifeng government as policy guidance for
+sustainable tourism planning
+
+
+
+# 🤹 Research Skills
+Research Methodology
+- Econometrics: DID (TWFE, Dynamic DID, CSDID, PSM-DID, Triple DID), Linear & Logistic Regression
+- AI: ML (XGBoost, AutoML), DL (CNNs: MobileNet, ResNet; RNNs: LSTM), LLMs (BERT, GPT, Hugging Face)
+- Quantitative: Lab/Field Experiments (Online Scenarios, A/B Testing), Mediation/Moderation Analysis, SEM
+- Qualitative: Content Analysis (Web Scraping), Semi-structured Interviews
+Programming: Python (TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib), R, SQL
+Software & Tools: STATA, SPSS, AMOS, EasySpider, Credamo, Prolific, LaTeX, Zotero, Git
+Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
+
+# ✍️ Work in Progress
+- need to write
+- need to write
+
+# 🎖 Honors and Awards
+- *2020*, Tencent Elite Product Manager Data Analytics Certification – Score: 108/120
+- *2020*, Business Excellence Award, Tencent Live Platform Cente
+- *2019*, Second Prize, International University Challenge at Future Leaders Forum
+- *2028*, First Prize, National Business Elite Competition
+- *2016 - 2019*, National Encouragement Scholarship 
+- *2016 - 2017*, The Second Outstanding Student Scholarship
+
+
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<!--
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -76,15 +143,13 @@ through data-informed interventions.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
--->
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+-->
+
+
+
+
 

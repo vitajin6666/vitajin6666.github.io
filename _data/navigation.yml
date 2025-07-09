@@ -3,24 +3,34 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Work Experience"
     url: "/#-work-experience"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Research Interests"
+    url: "/#-research-interests"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research Experience"
+    url: "/#-research-experience"
+
+  - title: "Research Skills"
+    url: "/#-research-skills"
+
+  - title: "Work in Progress"
+    url: "/#-work-in-progress"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  
+  #- title: "News"
+  #  url: "/#-news"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  #- title: "Publications"
+  #  url: "/#-publications" 
+
+  #- title: "Invited Talks"
+  #  url: "/#-invited-talks"
 
   
