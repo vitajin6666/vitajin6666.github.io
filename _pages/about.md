@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently preparing to pursue a PhD in Information Systems, with research interests in Human–Computer/AI Interaction and platform ecosystems. Passionate about understanding user behavior and the transformative role of AI technologies, I am actively seeking academic opportunities and collaboration. Please feel free to contact me at [vitajin101@gmail.com](mailto:vitajin101@gmail.com).
+I am currently preparing to pursue a PhD in Information Systems, with research interests in Human–Computer/AI Interaction, Mobile Commerce and Platform Ecosystems. Passionate about understanding user behavior and the transformative role of AI technologies, **I am actively seeking academic opportunities and collaboration. Please feel free to contact me at [vitajin101@gmail.com](mailto:vitajin101@gmail.com).**
 
 I graduated from [The School of Tourism Management](https://stm.sysu.edu.cn/about), Sun Yat-sen University (中山大学) with a bachelor’s degree, where I received rigorous training in quantitative analysis and business strategy.
 
-Previously, I worked at Tencent for nearly three years as a Product Manager. Selected through the highly competitive Elite Product Manager Program (0.4% acceptance rate) and promoted to P8 (mid-to-senior level), I led key initiatives such as a digital goods marketplace serving 700K+ paying users and a CRM system powered by behavioral analytics. These experiences honed my skills in platform design, data-driven monetization, and cross-functional team leadership.
+
+After graduation, I joined [Tencent Elite Product Manager Program](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA) (腾讯产品经理培训生) and worked there for nearly three years and promoted to P8 (mid-to-senior level), across both the livestreaming and Appstore departments.I led key initiatives such as a digital goods marketplace serving 700K+ paying users and a CRM system powered by behavioral analytics. These experiences honed my skills in platform design, data-driven monetization, and cross-functional team leadership.
 
 Since leaving Tencent, I have focused on strengthening my academic foundation through intensive training in econometrics, machine learning, and experimental methods—preparing myself for impactful doctoral research in the field of Information Systems.
 
