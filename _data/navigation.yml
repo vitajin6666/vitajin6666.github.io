@@ -10,7 +10,7 @@ main:
     url: "/#-work-experience"
 
   - title: "Research Interests"
-    url: "/#-research-interests"
+    url: "/#research-interests"
 
   - title: "Research Experience"
     url: "/#-research-experience"
@@ -19,7 +19,7 @@ main:
     url: "/#-research-skills"
 
   - title: "Work in Progress"
-    url: "/#-work-in-progress"
+    url: "/#work-in-progress"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

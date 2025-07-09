@@ -63,6 +63,8 @@ stability for long-tail streamers.
 conversion. Designed scalable community-building campaigns and low-barrier event mechanisms, successfully
 activating 1,000+ new streamers and generating 8,000+ high-engagement live sessions.
 
+<span class='anchor' id='research-interests'></span>
+
 # ♥️ Research Interests
 - Research Areas: Human Computer/AI Interaction, Mobile Commerce, Platform Ecosystem
 - Methodologies: Empirical Econometrics Modelling, Applied Machine Learning, Field/Lab Experiments
@@ -110,7 +112,9 @@ sustainable tourism planning
 
 - Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
 
-# ✏️ Work in Progress
+<span class='anchor' id='work-in-progress'></span>
+
+# ✍️ Work in Progress
 - need to write
 - need to write
 
