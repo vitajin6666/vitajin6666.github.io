@@ -105,8 +105,11 @@ Research Methodology
 - AI: ML (XGBoost, AutoML), DL (CNNs: MobileNet, ResNet; RNNs: LSTM), LLMs (BERT, GPT, Hugging Face)
 - Quantitative: Lab/Field Experiments (Online Scenarios, A/B Testing), Mediation/Moderation Analysis, SEM
 - Qualitative: Content Analysis (Web Scraping), Semi-structured Interviews
+
 Programming: Python (TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib), R, SQL
+
 Software & Tools: STATA, SPSS, AMOS, EasySpider, Credamo, Prolific, LaTeX, Zotero, Git
+
 Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
 
 # ✍️ Work in Progress
