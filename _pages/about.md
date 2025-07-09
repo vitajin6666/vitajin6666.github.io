@@ -23,15 +23,17 @@ I hold a bachelor’s degree from [the school of Tourism Management](https://stm
 
 After graduation, I was selected into the highly competitive [Tencent Elite Product Manager Program](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA)（腾讯产品经理培训生）with a 0.4% acceptance rate. Over nearly three years at Tencent, I advanced to P8 (mid-to-senior level) and worked across both the Livestreaming and Appstore departments. I led large-scale initiatives including a digital goods marketplace with over 700K paying users and a CRM system driven by behavioral analytics. These experiences strengthened my skills in platform architecture, data-driven monetization, and cross-functional leadership.
 
-Since leaving Tencent, I have been committed to building a solid academic foundation in preparation for doctoral research. My current focus includes econometrics, machine learning, and experimental design, aiming to bridge industry insights with impactful research in Information Systems. For a detailed overview of my experience and skills, see my [CV](cv/cv_vita.pdf).
+Since leaving Tencent, I have been committed to building a solid academic foundation in preparation for doctoral research. My current focus includes econometrics, machine learning, and experimental design, aiming to bridge industry insights with impactful research in Information Systems. For a detailed overview of my experience and skills, see my [CV]("CV/cv_vita.pdf").
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 📖 Educations
-- *2016.09 - 2020.07, B.M. in Exhibition Economy and Management, Sun Yat-sen University 
+- *2016.09 - 2020.07*, B.M. in Exhibition Economy and Management, Sun Yat-sen University 
 
+# 💻 Work Experience
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -63,5 +65,3 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
