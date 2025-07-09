@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently preparing to pursue a PhD in Information Systems, with a strong focus on Human–Computer/AI Interaction, Mobile Commerce, and Platform Ecosystems. Driven by a deep curiosity about user behavior and the transformative impact of AI technologies, I am actively seeking academic opportunities and collaborations. Please feel free to contact me at [vitajin101@gmail.com](mailto:vitajin101@gmail.com).
+I am currently preparing to pursue a PhD in Information Systems, with a focus on Human–Computer/AI Interaction, Mobile Commerce, and Platform Ecosystems. Motivated by a deep curiosity about user behavior and the transformative impact of AI technologies, I am actively seeking academic opportunities and collaborations. Please feel free to contact me at [vitajin101@gmail.com](mailto:vitajin101@gmail.com).
 
-I hold a bachelor’s degree from the [School of Tourism Management](https://stm.sysu.edu.cn/about) at Sun Yat-sen University （中山大学）, which is ranked #1 in Mainland China and #3 globally [(ShanghaiRanking 2024)](https://www.shanghairanking.com/rankings/gras/2024/RS0513). Through rigorous academic training, I developed a strong foundation in quantitative analysis, business strategy, and experimental research methods.
+I hold a bachelor’s degree from the [School of Tourism Management](https://stm.sysu.edu.cn/about) at Sun Yat-sen University (中山大学旅游学院), ranked #1 in Mainland China and #3 globally [(ShanghaiRanking 2024)](https://www.shanghairanking.com/rankings/gras/2024/RS0513). Through rigorous academic training, I built a strong foundation in quantitative analysis, business strategy, and experimental methods.
 
-After graduation, I was selected into the highly competitive [Tencent Elite Product Manager Program](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA)（腾讯产品经理培训生）, with an acceptance rate of 0.4%. Over nearly three years at Tencent, I advanced to P8 (mid-to-senior level) and worked across both the Livestreaming and Appstore departments. I led large-scale initiatives including a digital goods marketplace with over 700K paying users and a CRM system driven by behavioral analytics. These experiences strengthened my skills in platform architecture, data-driven monetization, and cross-functional leadership.
+After graduation, I was selected into the highly competitive [Tencent Elite Product Manager Program](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA) (腾讯产品经理培训生), with an acceptance rate of 0.4%. Over nearly three years at Tencent, I advanced to P8 (mid-to-senior level) and worked across both the Livestreaming and Appstore teams. I led initiatives including a digital goods marketplace with 700K+ paying users and a CRM system powered by behavioral analytics. These experiences enhanced my skills in platform architecture, monetization strategy, and cross-functional leadership.
 
-Since leaving Tencent, I have focused on strengthening my academic foundation for doctoral research. My current methodological focus includes econometrics, machine learning, and experimental design to bridge industry insights with impactful research.
+Since leaving Tencent, I have focused on strengthening my academic foundation for doctoral research. My methodological focus includes econometrics, machine learning, and experimental design, aiming to bridge industry insights with impactful academic research.
 
 For more details about my background and work, please refer to my [CV](CV/cv_vita.pdf).
 
@@ -35,7 +35,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University
   - GPA: 3.9/4.0
   - Coursework: Business Statistics (100/100, 1st); Marketing (90/100, 1st); Advanced Mathematics (98/100)
-  - School of Tourism Management ranked #1 in Mainland China, #3 globally (ShanghaiRanking 2024)
 
 # 💻 Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
