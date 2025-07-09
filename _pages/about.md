@@ -87,7 +87,7 @@ speech processing; gained hands-on experience in model selection, application, a
 techniques (e.g., XGBoost, CNNs); developed complete pipelines from data preprocessing to model evaluation.
 - Research Replication: Reproduced classical empirical studies using econometric methods (e.g., PSM, DID).
 
-## 🌎 *2018.08 – 2018.09*, United Nations Wprld Tourism Organization (联合国世界旅游组织) - Research Assistant
+## 🌎 *2018.08 – 2018.09*, United Nations World Tourism Organization (联合国世界旅游组织) - Research Assistant
 Participated in a UNWTO-led sustainable tourism field study in Kaifeng, China, aimed at evaluating the city’s
 cultural image and informing local policy
 - Quantitative Research: Designed and conducted a large-scale tourist survey (N=1300); built a moderated
