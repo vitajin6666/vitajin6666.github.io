@@ -128,6 +128,14 @@ sustainable tourism planning
 - *2016 - 2019*, National Encouragement Scholarship 
 - *2016 - 2017*, The Second Outstanding Student Scholarship
 
+# 💼 Internships
+- *2019.08 - 2019.09*, Baidu (百度), Product Operations Intern
+- *2019.04 - 2019.07*, Ctrip (携程), Client Manager Intern
+- *2017.02 - 2018.12*, China Mobile (中国移动), Retail Operations Intern
+
+
+
+
 
 <!--
 # 🔥 News
