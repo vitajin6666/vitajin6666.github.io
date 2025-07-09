@@ -32,9 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📖 Education
-- *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University
-  - GPA: 3.9/4.0
-  - Coursework: Business Statistics (100/100, 1st); Marketing (90/100, 1st); Advanced Mathematics (98/100)
+- *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University (GPA: 3.9/4.0)
 
 # 💻 Work Experience
 ## 🎮 *2021.08 - 2023.03*, Tencent Appstore (Yingyongbao) – Product Planning Manager
@@ -100,19 +98,19 @@ sustainable tourism planning
 
 
 # 🤹 Research Skills
-Research Methodology
-- Econometrics: DID (TWFE, Dynamic DID, CSDID, PSM-DID, Triple DID), Linear & Logistic Regression
-- AI: ML (XGBoost, AutoML), DL (CNNs: MobileNet, ResNet; RNNs: LSTM), LLMs (BERT, GPT, Hugging Face)
-- Quantitative: Lab/Field Experiments (Online Scenarios, A/B Testing), Mediation/Moderation Analysis, SEM
-- Qualitative: Content Analysis (Web Scraping), Semi-structured Interviews
+- Research Methodology
+  - Econometrics: DID (TWFE, Dynamic DID, CSDID, PSM-DID, Triple DID), Linear & Logistic Regression
+  - AI: ML (XGBoost, AutoML), DL (CNNs: MobileNet, ResNet; RNNs: LSTM), LLMs (BERT, GPT, Hugging Face)
+  - Quantitative: Lab/Field Experiments (Online Scenarios, A/B Testing), Mediation/Moderation Analysis, SEM
+  - Qualitative: Content Analysis (Web Scraping), Semi-structured Interviews
 
-Programming: Python (TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib), R, SQL
+- Programming: Python (TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib), R, SQL
 
-Software & Tools: STATA, SPSS, AMOS, EasySpider, Credamo, Prolific, LaTeX, Zotero, Git
+- Software & Tools: STATA, SPSS, AMOS, EasySpider, Credamo, Prolific, LaTeX, Zotero, Git
 
-Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
+- Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
 
-# ✍️ Work in Progress
+# ✏️ Work in Progress
 - need to write
 - need to write
 
@@ -120,7 +118,7 @@ Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Manda
 - *2020*, Tencent Elite Product Manager Data Analytics Certification – Score: 108/120
 - *2020*, Business Excellence Award, Tencent Live Platform Cente
 - *2019*, Second Prize, International University Challenge at Future Leaders Forum
-- *2028*, First Prize, National Business Elite Competition
+- *2018*, First Prize, National Business Elite Competition
 - *2016 - 2019*, National Encouragement Scholarship 
 - *2016 - 2017*, The Second Outstanding Student Scholarship
 
