@@ -37,21 +37,21 @@ My research interest includes neural machine translation and computer vision. I 
   - Coursework: Business Statistics (100/100, 1st); Marketing (90/100, 1st); Advanced Mathematics (98/100)
 
 # 💻 Work Experience
-- *2021.08 - 2023.03*, Tencent Appstore (Yingyongbao) – Product Planning Manager
+## 🏪 *2021.08 - 2023.03*, Tencent Appstore (Yingyongbao) – Product Planning Manager
 Led the full lifecycle development of a digital goods marketplace supporting over 730 games, engaging 700K+
 paying users and generating monthly GMV (Gross Merchandise Value) of ¥60M+. Focused on end-to-end system
 design, data-driven monetization strategies, and user lifecycle management.
-  - Platform Design & System Architecture: Designed and deployed a modular, scalable marketplace platform for
+- Platform Design & System Architecture: Designed and deployed a modular, scalable marketplace platform for
 out-of-game virtual goods. Defined the architecture and process flow covering product catalog management,
 payment integration, coupon issuance, and post-sale services.
-  - CRM System Development: Built a precision customer relationship management system using RFM and CLV
+- CRM System Development: Built a precision customer relationship management system using RFM and CLV
 models within the WeCom (Tencent’s enterprise messaging) ecosystem. Engineered behavior-tag-based
 segmentation and churn-risk prediction tools to enable targeted, automated engagement, boosting ARPPU
 (average revenue per paying user) to ¥600+ and increasing repurchase rates by 20%.
-  - Data-Driven Pricing & Promotion: Developed and optimized pricing models for the Game Monthly Pass
+- Data-Driven Pricing & Promotion: Developed and optimized pricing models for the Game Monthly Pass
 subscription using perceived value and marginal utility frameworks. Delivered a 3.5x ROI through integrated
 pricing, bundling, and promotion mechanisms.
-  - Product Analytics & Optimization: Applied A/B testing, funnel analysis, and behavioral analytics to iteratively
+- Product Analytics & Optimization: Applied A/B testing, funnel analysis, and behavioral analytics to iteratively
 improve feature performance. Achieved a 17% increase in user conversion and 9% improvement in retention
 through data-informed interventions.
 
