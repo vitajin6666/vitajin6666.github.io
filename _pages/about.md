@@ -63,6 +63,7 @@ stability for long-tail streamers.
 conversion. Designed scalable community-building campaigns and low-barrier event mechanisms, successfully
 activating 1,000+ new streamers and generating 8,000+ high-engagement live sessions.
 
+<!-- 加以下这行，是因为导航栏点击Research Interests无法成功跳转，加上具体id名就可以成功了-->
 <span class='anchor' id='research-interests'></span>
 
 # ♥️ Research Interests
@@ -112,6 +113,7 @@ sustainable tourism planning
 
 - Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
 
+<!-- 加以下这行，是因为导航栏点击Work in Progress无法成功跳转，加上具体id名就可以成功了-->
 <span class='anchor' id='work-in-progress'></span>
 
 # ✍️ Work in Progress
