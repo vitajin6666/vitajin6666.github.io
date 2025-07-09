@@ -32,7 +32,10 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📖 Educations
-- *2016.09 - 2020.07*, B.M. in Exhibition Economy and Management, Sun Yat-sen University 
+- *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University
+  - GPA: 3.9/4.0
+  - Coursework: Business Statistics (100/100, 1st); Marketing (90/100, 1st); Advanced Mathematics (98/100)
+  - School of Tourism Management ranked #1 in Mainland China, #3 globally (ShanghaiRanking 2024)
 
 # 💻 Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
