@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Vita Jin"
-description              : "Personal academic website of Vita Jin."
+description              : "Preparing for PhD studies in Information Systems Management. Open to academic collaboration and supervision."
 repository               : "vitajin6666/vitajin6666.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Vita Jin"
   avatar           : "images/vita_avatar.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "金宛媛"
+  location         : "Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "vitajin01@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/vitajin6666"
   google_plus      :
   keybase          :
   instagram        :
