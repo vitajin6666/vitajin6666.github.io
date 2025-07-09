@@ -116,7 +116,7 @@ Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Manda
 - need to write
 - need to write
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2020*, Tencent Elite Product Manager Data Analytics Certification – Score: 108/120
 - *2020*, Business Excellence Award, Tencent Live Platform Cente
 - *2019*, Second Prize, International University Challenge at Future Leaders Forum
