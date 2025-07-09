@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Vita Jin"
-description              : "Preparing for PhD studies in Information Systems Management. Open to academic collaboration and supervision."
+description              : "Preparing for PhD studies in Information Systems. Open to academic collaboration and supervision."
 repository               : "vitajin6666/vitajin6666.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vitajin6666"
+  github           : vitajin6666
   google_plus      :
   keybase          :
   instagram        :

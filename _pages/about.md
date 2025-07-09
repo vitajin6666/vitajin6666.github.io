@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently preparing to pursue a PhD in Information Systems, with research interests in Human–Computer/AI Interaction and platform ecosystems. Passionate about understanding user behavior and the transformative role of AI technologies, I am actively seeking academic opportunities and collaboration. Please feel free to contact me at vitajin101@gmail.com.
 
+I hold a Bachelor's degree in Exhibition Economy and Management from Sun Yat-sen University, where I received rigorous training in quantitative analysis and business strategy. The School of Tourism Management is ranked #1 in Mainland China and #3 globally (ShanghaiRanking 2024).
+
+Previously, I worked at Tencent for nearly three years as a Product Manager. Selected through the highly competitive Elite Product Manager Program (0.4% acceptance rate) and promoted to P8 (mid-to-senior level), I led key initiatives such as a digital goods marketplace serving 700K+ paying users and a CRM system powered by behavioral analytics. These experiences honed my skills in platform design, data-driven monetization, and cross-functional team leadership.
+
+Since leaving Tencent, I have focused on strengthening my academic foundation through intensive training in econometrics, machine learning, and experimental methods—preparing myself for impactful doctoral research in the field of Information Systems.
+
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
 
 
 # 🔥 News
