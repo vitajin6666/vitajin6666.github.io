@@ -34,6 +34,10 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Education
 - *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University (GPA: 3.9/4.0)
 
+# ♥️ Research Interests
+- Research Areas: Human Computer/AI Interaction, Mobile Commerce, Platform Ecosystem
+- Methodologies:  Econometrics, Applied Machine Learning, Field/Lab Experiments
+
 # 🕵️ Current Research
 **The Serendipity Switch: A Novel Luck-based Explanation Framing for Enhancing User Acceptance of Generative AI**
 Recommendations
@@ -70,9 +74,7 @@ Collaborated with engineering to reduce CPU load by 50%, improving system stabil
 <!-- 加以下这行，是因为导航栏点击Research Interests无法成功跳转，加上具体id名就可以成功了-->
 <span class='anchor' id='research-interests'></span>
 
-# ♥️ Research Interests
-- Research Areas: Human Computer/AI Interaction, Mobile Commerce, Platform Ecosystem
-- Methodologies:  Econometrics, Applied Machine Learning, Field/Lab Experiments
+
 
 
 # 📋 Research Experience
