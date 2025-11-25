@@ -25,6 +25,7 @@ After leaving Tencent, I have been preparing full-time for doctoral study while 
 Previously, I earned my bachelor’s degree from the [School of Tourism Management](https://stm.sysu.edu.cn/about) at Sun Yat-sen University (中山大学旅游学院), [ranked #1 in Mainland China and #3 globally](https://www.shanghairanking.com/rankings/gras/2024/RS0513). I also interned at Baidu (百度), Trip.com (携程), China Mobile (中国移动), and the United Nations World Tourism Organization (联合国世界旅游组织), and was admitted to Tencent’s flagship Product Manager Program (≈0.4% acceptance rate)[(腾讯产品经理培训生)](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA).
 
 I am actively seeking research collaborations and PhD opportunities in Information Systems.
+
 [vitajin101@gmail.com](mailto:vitajin101@gmail.com) | Full [CV](CV/Wanyuan Jin_CV.pdf)
 
 <!--
@@ -39,12 +40,11 @@ My research interest includes neural machine translation and computer vision. I 
 - Methodologies:  Econometrics, Applied Machine Learning, Field/Lab Experiments
 
 # 🕵️ Current Research
-**The Serendipity Switch: A Novel Luck-based Explanation Framing for Enhancing User Acceptance of Generative AI**
-Recommendations
-- Research Gap: Modern recommender systems deliver highly personalized and often serendipitous content, yet
+**The Serendipity Switch: A Novel Luck-based Explanation Framing for Enhancing User Acceptance of Generative AI Recommendations**
+- **Research Gap:** Modern recommender systems deliver highly personalized and often serendipitous content, yet
 their explanation mechanisms remain generic, factual, and non-personalized. This mismatch limits users’
 perceived serendipity and acceptance of generative AI recommendations.
-- Research Design: This project introduces luck-based explanation framing by embedding cues of serendipity and
+- **Research Design:** This project introduces luck-based explanation framing by embedding cues of serendipity and
 fortunate coincidence into recommendation explanations. Drawing on Appraisal Theory and a sequential
 mixed-methods design (five experiments plus a qualitative study), it investigates how such framing enhances
 user acceptance through opportunity appraisal and perceived diagnosticity, and examines moderators including
@@ -52,7 +52,7 @@ AI role-playing, product orientation, product involvement, and AI literacy.
 
 # 💻 Work Experience
 ## Professional Summary
-Product Manager at Tencent with three years of experience in platform strategy. Selected into Tencent’s highly competitive Product Management Trainee Program (0.4% acceptance) through campus recruitment and promoted to P8 (mid-to-senior level). Led cross-functional teams and mentored junior members while driving data-informed initiatives. Skilled in data-driven analysis and experimental frameworks to optimize platform performance and user engagement.
+**Product Manager at Tencent with three years of experience in platform strategy**. Selected into Tencent’s highly competitive Product Management Trainee Program (0.4% acceptance) through campus recruitment and promoted to P8 (mid-to-senior level). Led cross-functional teams and mentored junior members while driving data-informed initiatives. Skilled in data-driven analysis and experimental frameworks to optimize platform performance and user engagement.
 ## 🎮 *2021.08 - 2023.03*, Tencent Appstore (应用宝) – Product Planning Manager
 Led the full lifecycle development of a digital goods marketplace supporting 730+ games, 700K+ paying users,
 and ¥60M+ monthly GMV, focusing on platform strategy, monetization, and user lifecycle management.
