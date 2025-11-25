@@ -18,11 +18,11 @@ main:
   - title: "Research Skills"
     url: "/#-research-skills"
 
-  - title: "Work in Progress"
-    url: "/#work-in-progress"
+  # - title: "Work in Progress"
+  #   url: "/#work-in-progress"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
   # - title: "Internships"
   #   url: "/#-internships"

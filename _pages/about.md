@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University (GPA: 3.9/4.0)
 
 # 🕵️ Current Research
-The Serendipity Switch: A Novel Luck-based Explanation Framing for Enhancing User Acceptance of Generative AI
+**The Serendipity Switch: A Novel Luck-based Explanation Framing for Enhancing User Acceptance of Generative AI**
 Recommendations
 - Research Gap: Modern recommender systems deliver highly personalized and often serendipitous content, yet
 their explanation mechanisms remain generic, factual, and non-personalized. This mismatch limits users’
