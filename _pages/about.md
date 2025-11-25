@@ -21,11 +21,11 @@ I am currently preparing to pursue a PhD in Information Systems, with a focus on
 
 I hold a bachelor’s degree from the [School of Tourism Management](https://stm.sysu.edu.cn/about) at Sun Yat-sen University (中山大学旅游学院), [ranked #1 in Mainland China and #3 globally](https://www.shanghairanking.com/rankings/gras/2024/RS0513). Through rigorous academic training, I built a strong foundation in quantitative analysis, business strategy, and experimental methods. During my undergraduate studies, I also interned at Baidu (百度), Trip.com (携程), China Mobile (中国移动), and the United Nations World Tourism Organization (联合国世界旅游组织).
 
-After graduation, I was selected into the highly competitive Tencent Elite Product Manager Program [(腾讯产品经理培训生)](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA), with an <span style="color: blue;">acceptance rate of 0.4%</span>. Over nearly three years at Tencent, I advanced to <span style="color: blue;">P8 (mid-to-senior level)</span> and worked across both the Livestreaming and Appstore teams. I led initiatives including a digital goods marketplace with 700K+ paying users and a CRM system powered by behavioral analytics. These experiences enhanced my skills in platform architecture, monetization strategy, and cross-functional leadership.
+After graduation, I was selected into the highly competitive Tencent Elite Product Manager Program [(腾讯产品经理培训生)](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA), with an <span style="color: blue;">acceptance rate of 0.4%</span>. Over nearly three years at Tencent, I advanced to <span style="color: blue;">P8 (mid-to-senior level)</span> and worked across both the Livestreaming and Appstore teams. I designed and executed large-scale online A/B tests, built RFM/CLV segmentation systems, and developed churn-prediction and pricing models, consistently increasing ARPPU by more than 30% and repurchase rates by 20%. These experiences gave me practical expertise in designing and evaluating interventions in live platform environments, while also revealing the limits of purely metric-driven optimization for shaping user behavior. This fundamental insight convinced me that only rigorous academic training could produce generalizable, theory-grounded solutions to the persistent human–AI gaps I observed.
 
 Since leaving Tencent, I have focused on strengthening my academic foundation for doctoral research. My methodological focus includes econometrics, machine learning, and experimental design, aiming to bridge industry insights with impactful academic research.
 
-For more details about my background and work, please refer to my [CV](CV/cv_vita.pdf).
+For more details about my background and work, please refer to my [CV](CV/Wanyuan Jin_CV.pdf).
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -34,59 +34,48 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Education
 - *2016.09 - 2020.06*, B.M. in Exhibition Economy and Management, Sun Yat-sen University (GPA: 3.9/4.0)
 
+# 🕵️ Current Research
+The Serendipity Switch: A Novel Luck-based Explanation Framing for Enhancing User Acceptance of Generative AI
+Recommendations
+- Research Gap: Modern recommender systems deliver highly personalized and often serendipitous content, yet
+their explanation mechanisms remain generic, factual, and non-personalized. This mismatch limits users’
+perceived serendipity and acceptance of generative AI recommendations.
+- Research Design: This project introduces luck-based explanation framing by embedding cues of serendipity and
+fortunate coincidence into recommendation explanations. Drawing on Appraisal Theory and a sequential
+mixed-methods design (five experiments plus a qualitative study), it investigates how such framing enhances
+user acceptance through opportunity appraisal and perceived diagnosticity, and examines moderators including
+AI role-playing, product orientation, product involvement, and AI literacy.
+
 # 💻 Work Experience
+## Professional Summary
+Product Manager at Tencent with three years of experience in platform strategy. Selected into Tencent’s highly competitive Product Management Trainee Program (0.4% acceptance) through campus recruitment and promoted to P8 (mid-to-senior level). Led cross-functional teams and mentored junior members while driving data-informed initiatives. Skilled in data-driven analysis and experimental frameworks to optimize platform performance and user engagement.
 ## 🎮 *2021.08 - 2023.03*, Tencent Appstore (应用宝) – Product Planning Manager
-Led the full lifecycle development of a digital goods marketplace supporting over 730 games, engaging 700K+
-paying users and generating monthly GMV (Gross Merchandise Value) of ¥60M+. Focused on end-to-end system
-design, data-driven monetization strategies, and user lifecycle management.
-- Platform Design & System Architecture: Designed and deployed a modular, scalable marketplace platform for
-out-of-game virtual goods. Defined the architecture and process flow covering product catalog management,
-payment integration, coupon issuance, and post-sale services.
-- CRM System Development: Built a precision customer relationship management system using RFM and CLV
-models within the WeCom (Tencent’s enterprise messaging) ecosystem. Engineered behavior-tag-based
-segmentation and churn-risk prediction tools to enable targeted, automated engagement, boosting ARPPU
-(average revenue per paying user) to ¥600+ and increasing repurchase rates by 20%.
-- Data-Driven Pricing & Promotion: Developed and optimized pricing models for the Game Monthly Pass
-subscription using perceived value and marginal utility frameworks. Delivered a 3.5x ROI through integrated
-pricing, bundling, and promotion mechanisms.
-- Product Analytics & Optimization: Applied A/B testing, funnel analysis, and behavioral analytics to iteratively
-improve feature performance. Achieved a 17% increase in user conversion and 9% improvement in retention
-through data-informed interventions.
+Led the full lifecycle development of a digital goods marketplace supporting 730+ games, 700K+ paying users,
+and ¥60M+ monthly GMV, focusing on platform strategy, monetization, and user lifecycle management.
+- Platform Design: Designed modular, scalable marketplace platform with end-to-end system architecture.
+- CRM & User Analytics: Built precision CRM system with RFM/CLV models; applied behavior-based
+segmentation and churn-risk prediction to boost ARPPU to ¥600+ and increase repurchase rates by 20%.
+- Pricing & Promotion: Designed data-driven pricing and bundling strategies, achieving 3.5x ROI.
+- Product Experimentation & Analytics: Conducted A/B tests, funnel analysis, and behavioral analytics to improve user conversion (+17%) and retention (+9%).
 
 ## 📱 *2020.07 - 2021.07*, Tencent Live – Product Operations Manager 
-Drove user acquisition and content creator activation for Tencent’s livestreaming platform through
-community-based strategies and continuous user feedback loops.
-- User Research & System Feedback Integration: Conducted over 50 qualitative interviews with streamers to
-identify product pain points. Collaborated with engineering to reduce CPU load by 50%, improving system
-stability for long-tail streamers.
-- UGC Activation via Growth Frameworks: Applied the AARRR growth model to guide viewer-to-streamer
-conversion. Designed scalable community-building campaigns and low-barrier event mechanisms, successfully
-activating 1,000+ new streamers and generating 8,000+ high-engagement live sessions.
+Drove user acquisition and content creator engagement on Tencent’s livestreaming platform using data-informed
+community strategies.
+- UGC Activation & Growth: Applied the AARRR framework to convert viewers to content creators, activating
+1,000+ new streamers and generating 8,000+ high-engagement live sessions.
+- User Research & Feedback Integration: Conducted 50+ qualitative interviews to identify product pain points.
+Collaborated with engineering to reduce CPU load by 50%, improving system stability.
+
 
 <!-- 加以下这行，是因为导航栏点击Research Interests无法成功跳转，加上具体id名就可以成功了-->
 <span class='anchor' id='research-interests'></span>
 
 # ♥️ Research Interests
 - Research Areas: Human Computer/AI Interaction, Mobile Commerce, Platform Ecosystem
-- Methodologies: Empirical Econometrics Modelling, Applied Machine Learning, Field/Lab Experiments
+- Methodologies:  Econometrics, Applied Machine Learning, Field/Lab Experiments
+
 
 # 📋 Research Experience
-## 🏫 *2023.04 – Present*, Skill Development & Independent Research
-Exploring Human–Computer and Human–AI Interaction through quantitative (lab/field experiments, SEM,
-regression), qualitative (interviews, content analysis), and computational methods (machine learning, NLP), with
-applications in mobile commerce and platform ecosystem.
-- need to write
-- need to write
-
-Engaged in structured self-training to strengthen empirical and computational research skills:
-- Advanced courses: Completed Generative AI, Machine Learning, and Deep Learning specializations by Andrew
-Ng.
-- Transformer-based AI Practice: Applied Hugging Face Transformers to tasks in NLP, computer vision, and
-speech processing; gained hands-on experience in model selection, application, and deployment.
-- Kaggle Projects: Tackled real-world problems such as demand forecasting and image classification using ML/DL
-techniques (e.g., XGBoost, CNNs); developed complete pipelines from data preprocessing to model evaluation.
-- Research Replication: Reproduced classical empirical studies using econometric methods (e.g., PSM, DID).
-
 ## 🌎 *2018.08 – 2018.09*, United Nations World Tourism Organization (联合国世界旅游组织) - Research Assistant
 Participated in a UNWTO-led sustainable tourism field study in Kaifeng, China, aimed at evaluating the city’s
 cultural image and informing local policy
@@ -97,6 +86,18 @@ Involvement) using PROCESS and SEM
 transcripts (50 interviews) to identify key perceptions and explore the cognitive-affective mechanism
 - Outcome: Contributed to a UNWTO-issued report submitted to the Kaifeng government as policy guidance for
 sustainable tourism planning
+
+## 🏫 *2023.04 – Present*, Skill Development & Independent Research
+Engaged in structured self-training to strengthen empirical and computational research skills:
+- Advanced courses: Completed Generative AI, Machine Learning, and Deep Learning specializations by Andrew
+Ng.
+- Transformer-based AI Practice: Applied Hugging Face Transformers to tasks in NLP, computer vision, and
+speech processing; gained hands-on experience in model selection, application, and deployment.
+- Kaggle Projects: Tackled real-world problems such as demand forecasting and image classification using ML/DL
+techniques (e.g., XGBoost, CNNs); developed complete pipelines from data preprocessing to model evaluation.
+- Research Replication: Reproduced classical empirical studies using econometric methods (e.g., PSM, DID).
+
+
 
 
 
@@ -113,12 +114,12 @@ sustainable tourism planning
 
 - Languages: English (IELTS Overall 7.0 – R: 7.5, L: 7.0, W: 6.5, S: 6.0); Mandarin (Native)
 
-<!-- 加以下这行，是因为导航栏点击Work in Progress无法成功跳转，加上具体id名就可以成功了-->
+<!-- 加以下这行，是因为导航栏点击Work in Progress无法成功跳转，加上具体id名就可以成功了
 <span class='anchor' id='work-in-progress'></span>
 
 # ✍️ Work in Progress
 - need to write
-- need to write
+- need to write -->
 
 # 🏆 Honors and Awards
 - *2020*, Tencent Elite Product Manager Data Analytics Certification – Score: 108/120
