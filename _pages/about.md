@@ -22,7 +22,7 @@ At Tencent, I led the digital goods marketplace in the Appstore ecosystem, servi
 
 After leaving Tencent, I have been preparing full-time for doctoral study while leading an independent research project, which uses appraisal theory and multi-study experiments to show how luck-based explanation framing enhances user acceptance of generative AI recommendations.
 
-Previously, I earned my bachelor’s degree from the [School of Tourism Management](https://stm.sysu.edu.cn/about) at Sun Yat-sen University (中山大学旅游学院), [ranked #1 in Mainland China and #3 globally](https://www.shanghairanking.com/rankings/gras/2024/RS0513). I also interned at Baidu (百度), Trip.com (携程), China Mobile (中国移动), and the United Nations World Tourism Organization (联合国世界旅游组织), and was admitted to Tencent’s flagship Product Manager Program (≈0.4% acceptance rate)[(腾讯产品经理培训生)](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA).
+Previously, I earned my bachelor’s degree from the [School of Tourism Management](https://stm.sysu.edu.cn/about) at Sun Yat-sen University (中山大学旅游学院), [ranked #1 in Mainland China and #3 globally](https://www.shanghairanking.com/rankings/gras/2024/AS0513). I also interned at Baidu (百度), Trip.com (携程), China Mobile (中国移动), and the United Nations World Tourism Organization (联合国世界旅游组织), and was admitted to Tencent’s flagship Product Manager Program (≈0.4% acceptance rate)[(腾讯产品经理培训生)](https://mp.weixin.qq.com/s/Xg1GtNG6ej3SUq9j6DGoLA).
 
 I am actively seeking research collaborations and PhD opportunities in Information Systems.
 
